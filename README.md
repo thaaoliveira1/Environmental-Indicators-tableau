@@ -59,19 +59,3 @@ To explore the analysis, follow these steps:
 4. **Read the Report**:  
    The **Global Environmental Indicators.pdf** provides a detailed report with findings, insights, and conclusions from the analysis.
 
-## Analysis Overview
-
-The dataset was divided into the following segments for the analysis:
-
-- **Air and Climate**
-- **Biodiversity**
-- **Energy and Minerals**
-- **Forest**
-- **Governance**
-- **Inland Water Resources**
-- **Land and Agriculture**
-- **Marine and Coastal Areas**
-- **Natural Disasters**
-- **Waste**
-
-These segments were analyzed to uncover correlations between environmental indicators and natural disasters, with a focus on the relationships between emissions, mineral extraction, forest cover, and disaster occurrence.

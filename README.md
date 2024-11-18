@@ -59,3 +59,9 @@ To explore the analysis, follow these steps:
 4. **Read the Report**:  
    The **Global Environmental Indicators.pdf** provides a detailed report with findings, insights, and conclusions from the analysis.
 
+## Conclusion
+
+This analysis sheds light on important environmental factors affecting climate change and natural disasters. By answering the proposed business questions, we gain a deeper understanding of how specific indicators—such as gas emissions, forest area, and hazardous waste—impact environmental health globally. The insights derived from this project can guide future studies and inform policies related to sustainability and disaster prevention.
+
+I encourage further exploration of the dataset and the dashboards created, as well as potential extensions to this work. If you have any questions, suggestions, or contributions, feel free to open an issue or submit a pull request.
+
